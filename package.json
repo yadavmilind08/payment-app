@@ -1,0 +1,21 @@
+{
+  "name": "react-base-syntax",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^4.10.3",
+    "axios": "^0.21.1",
+    "formik": "^2.2.6",
+    "react": "^16.0.0-rc.3",
+    "react-dom": "^16.0.0-rc.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "1.0.13",
+    "yup": "^0.32.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

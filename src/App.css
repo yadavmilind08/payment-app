@@ -1,0 +1,27 @@
+.app {
+  margin: 10px;
+}
+
+.payment {
+  display: flex;
+}
+
+.payment-detail {
+  width: 50%;
+}
+
+.payment-detail .key {
+  font-weight: 700;
+}
+
+.payment-detail .value {
+  font-weight: 400;
+}
+
+.payment-form {
+  width: 50%;
+}
+
+.field-error {
+  color: red;
+}
